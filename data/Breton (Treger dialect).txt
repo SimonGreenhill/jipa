@@ -16,6 +16,9 @@ a, e(e, ë, ẽ), ɛ, i, ə, a(a, ä, äʳ, ã), ɵ(ɵ, ɵʳ), y, o, ø, œ,
 # Other Symbols:
 /ˈ/
 
+# Phoneme inventory size:
+36
+
 # Length of NWS audio file:
 NA
 

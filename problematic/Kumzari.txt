@@ -9,13 +9,15 @@ zum
 
 # Consonant Inventory:
 p(p, pː), b(b, β, bː), t(t, tᵊ, t̚, tʰ), d, tˠ, k(k, k̚, kʰ, kᵊ), g, q, ʔ, tʃ, dʒ, 
-m(m, m̥), n, f, s(s, sᵊ), sˠ, zˠ, ʃ(ʃ, ʃᵊ), χ, ʁ, ħ, ɦ, ɻ(ɻ, ɾ, ɽ, r) , j, w(w, wː), l(l, l̥) 
+m(m, m̥), n, f, s(s, sᵊ), sˠ, zˠ, ʃ(ʃ, ʃᵊ), χ, ʁ, ħ, ɦ, ɻ(ɻ, ɾ, ɽ, r), j, w(w, wː), l(l, l̥) 
 
 # Vowel Inventory:
 iː(iː, iˑ, iḭ), eː(eː, eːː, ɛ, e, eˑ), ɪ̽(ɪ̽, ɪ̥, ɪ̃, ə̃, ɪ̽ˑ), ɐ̟(ɐ̟, ɐ̟ːʷ, ʷɐ̟, ɑ, ɐ, ɐ̟ʷ, ɐ̰:), 
 aː(aː, ɑ:, aˑ), ʊ̽(ʊ̽, ʊ̽ʷ), uː(uː, uːː, ṵ:, ṵ:::, ṵ), 
 oː(oː, oːʷ, o̥, o, õ, ɔ, oˑ, ɔɔ̰)
 
+# Phoneme inventory size:
+34
 
 # Transcript:
 ˌtaːˈɻoːzˠ | ˈħeːmqʊ̽ ˌɐ̟ŋgɐ̟ ˈgɪ̽dɪ̽n ‖ naː χˈjoːʷ ‖ w ɪ̽nˈtaːfo | ˌkiyɐ̟ ɐ̟ɻ ˈqɐ̟wiˌtɐ̟ɽɪ̽jɛ ‖

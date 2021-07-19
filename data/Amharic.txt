@@ -16,7 +16,7 @@ fʷː, rː, wː, jː, lː, p’ː, t’ː, tʃ’ː, kʷ’ː, sʷː
 # Vowel Inventory:
 i, e, ə(ə, ɛ, ɔ), a, u, o, ɨ(ɨ, ɪ, ʊ)
 
-# Size of phoneme inventory:
+# Phoneme inventory size:
 73
 
 # Length of NWS audio file:

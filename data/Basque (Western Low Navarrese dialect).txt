@@ -17,6 +17,9 @@ p, t, c, k, pʰ, tʰ, kʰ, b,d, ɟ, g, f, s, ʂ, ʃ, h, ts, tʂ, tʃ, m, n, ɲ, 
 # Vowel Inventory:
 i, e(e, j, eː), a(a, aː), o(o, w, oː), u(u, uː), ai, ei, oi, ui, au, eu
 
+# Phoneme inventory size:
+37
+
 # Length of NWS audio file:
 NA
 
